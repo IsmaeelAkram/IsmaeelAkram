@@ -2,7 +2,7 @@
 
 Full-stack developer & Systems/Server administrator in New York City. Experienced with frontend development (JavaScript, HTML, CSS, React, React Native, Bootstrap, Tailwind), backend development (Python, Flask, Node.js, Express, Go), and cloud computing (Linux, AWS, DigitalOcean, MySQL, Redis).
 
-Available for remote freelance work at all times!
+**Available for remote freelance work at all times!**
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
