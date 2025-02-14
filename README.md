@@ -1,6 +1,6 @@
 ## Hi, I'm Ismaeel Akram 👋 Student, full-stack developer, DevOps Engineer
 
-![IsmaeelAkram's Stats](https://github-readme-stats.vercel.app/api?username=IsmaeelAkram&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![IsmaeelAkram's Stats](https://github-readme-stats.vercel.app/api?username=IsmaeelAkram&theme=gotham&show_icons=true&hide_border=true&count_private=true&hide=contribs)
 ![IsmaeelAkram's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaeelAkram&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 <!--
 **IsmaeelAkram/IsmaeelAkram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
